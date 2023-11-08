@@ -1,7 +1,10 @@
 Postmortem: Web Stack Outage - November 7, 2023
 Issue Summary:
 
-- Duration: 
+
+- ![git 0x19  Postmortem](https://github.com/Amosamevor/alx-system_engineering-devops/assets/104185979/575ee715-bfd8-4997-9feb-824a59f808b5)
+- - Duration:
+
   - Start Time: November 7, 2023, 14:00 UTC
   - End Time: November 7, 2023, 16:30 UTC
 
